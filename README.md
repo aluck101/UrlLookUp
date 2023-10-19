@@ -11,7 +11,7 @@ To implement the  URL Lookup Service, I have selected following Tools
 
 
 
-## Install IntelliJIDEA IntelliJ IDEA 2021.3.2 (Ultimate Edition).[Student Edition]
+## Install IntelliJIDEA IntelliJ IDEA 2021.3.2 (Ultimate Edition)
 
 	- Import the the Spring Boot REST Microservice Application as Maven Project 
 		File -> Import -> Maven Project -> pom.xml
